@@ -82,6 +82,16 @@ Screenshots of key outputs are available in the `screenshots/` folder:
 - Feature Importance Plot
 - Classification Reports
 
+### ROC Curve
+![ROC Curve](screenshots/roc_curve.png)
+
+### Feature Importance
+![Feature Importance](screenshots/feature_importance.png)
+
+### SMOTE Results
+![SMOTE Results](screenshots/smote_results.png)
+
+
 ---
 
 ## 🏆 Key Outcomes
